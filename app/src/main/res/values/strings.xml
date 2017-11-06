@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Rock n Roll History Quiz</string>
+    <string name="question_1">Who is considered the "King of Rock n' Roll"?</string>
+    <string name="answer_1a">Chuck Berry</string>
+    <string name="answer_1b">Johnny Cash</string>
+    <string name="answer_1c">Elvis Presley</string>
+    <string name="answer_1d">Carl Perkins</string>
+
+    <string name="question_2">Where is Sun Records located?</string>
+    <string name="answer_2a">Nashville, TN</string>
+    <string name="answer_2b">New York, NY</string>
+    <string name="answer_2c">Los Angeles, CA</string>
+    <string name="answer_2d">Memphis, TN</string>
+
+    <string name="question_3">Who is referred to as the "Man in Black"?</string>
+    <string name="answer_3a">Willie Nelson</string>
+    <string name="answer_3b">Johnny Cash</string>
+    <string name="answer_3c">Waylon Jennings</string>
+    <string name="answer_3d">Roy Orbison</string>
+
+    <string name="question_4">Who was killed on the "Day the Music Died"?</string>
+    <string name="answer_4a">The Big Bopper</string>
+    <string name="answer_4b">Buddy Holly</string>
+    <string name="answer_4c">Hank Williams</string>
+    <string name="answer_4d">Ritchie Valens</string>
+
+    <string name="question_5">What instrument is Jerry Lee Lewis best known for playing?</string>
+
+</resources>
